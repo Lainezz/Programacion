@@ -1,5 +1,5 @@
 # Programacion
-<p>Repositorio principal de programacion para DAW</p>
+<h2>Repositorio principal de Programacion y EEDD para DAW</h2>
 <p>Aquí se irán subiendo todos los ejercicios y todo lo que se vaya haciendo en clase.</p>
 <p>Pasos para replicar este repositorio en local con eclipse:</p>
 <ol>
