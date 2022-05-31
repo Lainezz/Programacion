@@ -1,8 +1,7 @@
 # Programacion
-Repositorio principal de programacion para DAW
-Aquí se irán subiendo todos los ejercicios y todo lo que se vaya haciendo en clase.
-
-Pasos para replicar este repositorio en local con eclipse:<br />
+<p>Repositorio principal de programacion para DAW</p>
+<p>Aquí se irán subiendo todos los ejercicios y todo lo que se vaya haciendo en clase.</p>
+<p>Pasos para replicar este repositorio en local con eclipse:</p>
 <ol>
       <li>Abrir Eclipse</li>
       <li>(Si no está la ventana (window) de la terminal abierta) Abrir la ventana terminal de eclipse</li>
